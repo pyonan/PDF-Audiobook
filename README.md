@@ -173,5 +173,5 @@ __pycache__/
 
 ## Author
 
-**pyonan**
+**Ananya Gupta**
 GitHub: [github.com/pyonan](https://github.com/pyonan)
